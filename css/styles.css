@@ -489,6 +489,9 @@ HERO
 .link-agreement {
   color: var(--accent-color);
 }
+.subscribe-form {
+  display: flex;
+}
 /* ===============================================
 SECTION  "ПРЕИМУЩЕСТВА"
 ================================================== */
